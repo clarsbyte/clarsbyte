@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-🤖 **Computer Engineering** student at **UC San Diego** (ECE Department)  
+🤖 **Computer Engineering** student at **UC San Diego** (ECE Department, '29)  
 🧠 Passionate about **Robotics**, **Machine Learning**, and **Artificial Intelligence**  
 🏆 **International Physics Olympiad** & **Asian Physics Olympiad** Honorable Mentions  
 🏅 **National Physics Olympiad** Best Theory and Medalist  
