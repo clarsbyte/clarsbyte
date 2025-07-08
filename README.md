@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-🤖 **Computer Engineering** student at **UC San Diego** (ECE Department)  
+🤖 **Computer Engineering** student at **UC San Diego** (ECE Department, '29)  
 🧠 Passionate about **Robotics**, **Machine Learning**, and **Artificial Intelligence**  
 💼 **Former Software Engineering Intern** at **Ruangguru** (Southeast Asia's Largest EdTech)  
 🏆 **International Physics Olympiad** & **Asian Physics Olympiad** Honorable Mentions  
