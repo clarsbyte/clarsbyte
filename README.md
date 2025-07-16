@@ -12,6 +12,7 @@
 🏆 **International Physics Olympiad** & **Asian Physics Olympiad** Honorable Mentions  
 🏅 **National Physics Olympiad** Best Theory and Medalist  
 📱 **Content Creator** sharing my journey in tech 
+Check one of my deployed projects using Tensorflow.js (Lock Your Phone In)[lockyourphonein.netlify.app]
 
 ---
 
