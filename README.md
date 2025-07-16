@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Clarissa
+# Hi there! I'm Clarissa
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UCSD;Robotics+%26+AI+Enthusiast;Physics+Olympiad+Medalist;Content+Creator" alt="Typing SVG" />
@@ -12,7 +12,9 @@
 🏆 **International Physics Olympiad** & **Asian Physics Olympiad** Honorable Mentions  
 🏅 **National Physics Olympiad** Best Theory and Medalist  
 📱 **Content Creator** sharing my journey in tech 
-Check one of my deployed projects using Tensorflow.js (Lock Your Phone In)[lockyourphonein.netlify.app]
+
+## 🛠️ Featured Project
+**[Lock Your Phone In](https://lockyourphonein.netlify.app)** - A web application built with TensorFlow.js to help users manage their phone usage.
 
 ---
 
