@@ -13,7 +13,7 @@
 🏅 **National Physics Olympiad** Best Theory and Medalist  
 📱 **Content Creator** sharing my journey in tech 
 
-## 🛠️ Featured Project
+## 🛠️ Deployed Project
 **[Lock Your Phone In](https://lockyourphonein.netlify.app)** - A web application built with TensorFlow.js to help users manage their phone usage.
 
 ---
