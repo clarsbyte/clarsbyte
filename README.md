@@ -19,6 +19,7 @@
 🏆 **International Physics Olympiad** & **Asian Physics Olympiad** Honorable Mentions  
 🏅 **National Physics Olympiad** Best Theory and Medalist  
 📱 **Content Creator** sharing my journey in tech 
+🔍 **Researching** about **Computer Vision**
 
 ## 🛠️ Deployed Project
 **[Lock Your Phone In](https://lockyourphonein.netlify.app)** - A web application built with TensorFlow.js to help users manage their phone usage.
