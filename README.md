@@ -18,7 +18,7 @@
 💼 **Software Engineering Intern** at **Ruangguru** (Southeast Asia's Largest EdTech)  
 🏆 **International Physics Olympiad** & **Asian Physics Olympiad** Honorable Mentions  
 🏅 **National Physics Olympiad** Best Theory and Medalist  
-📱 **Content Creator** sharing my journey in tech 
+📱 **Content Creator** sharing my journey in tech   
 🔍 **Researching** about **Computer Vision**
 
 ## 🛠️ Deployed Project
