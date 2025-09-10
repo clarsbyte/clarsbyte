@@ -11,7 +11,7 @@
 
 
 
-## 🎓 About Me
+##  About Me
 
 🤖 **Computer Engineering** student at **UC San Diego** (ECE Department, '29)  
 🧠 Passionate about **Robotics**, **Machine Learning**, and **Artificial Intelligence**  
@@ -21,13 +21,9 @@
 🏅 **National Physics Olympiad** Best Theory and Medalist  
 📱 **Content Creator** sharing my journey in tech   
 
-
-## 🛠️ Deployed Project
-**[Lock Your Phone In](https://lockyourphonein.netlify.app)** - A web application built with TensorFlow.js to help users manage their phone usage.
-
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,7 +61,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
