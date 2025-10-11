@@ -13,7 +13,7 @@
 
 ##  About Me
 
-🤖 **Computer Engineering with Business Economics minor** student at **UC San Diego** (ECE Department, '29)  
+🤖 **Computer Engineering major with Business Economics minor** student at **UC San Diego** (ECE Department, '29)  
 🧠 Passionate about **Robotics**, **Machine Learning**, and **Artificial Intelligence**  
 🔍 Currently doing **research** on **Computer Vision**   
 💼 **Software Engineering Intern** at **Ruangguru** (Southeast Asia's Largest EdTech)  
