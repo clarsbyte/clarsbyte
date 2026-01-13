@@ -15,7 +15,7 @@
 
 🤖 **Computer Engineering major with Business Economics minor** student at **UC San Diego** (ECE Department, '29)  
 🧠 Passionate about **Robotics**, **Machine Learning**, and **Artificial Intelligence**  
-🔍 Currently doing **research** on **Computer Vision**   
+🔍 Currently doing **research** on **Computer Vision** and **Robotics**
 💼 **Software Engineering Intern** at **Ruangguru** (Southeast Asia's Largest EdTech)  
 🏆 **International Physics Olympiad** & **Asian Physics Olympiad** Honorable Mentions  
 🏅 **National Physics Olympiad** Best Theory and Medalist  
